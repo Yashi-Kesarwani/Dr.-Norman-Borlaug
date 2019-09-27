@@ -1,2 +1,2 @@
 # Projects
-Html,css,js,python
+Html,css
