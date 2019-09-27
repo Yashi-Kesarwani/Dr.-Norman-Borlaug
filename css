@@ -1,0 +1,31 @@
+  #img-div {
+    background: white;
+    padding: 10px;
+    margin: 0; }
+  #image {
+	  padding-left: 150px;
+	text-align: center;
+  }
+  h1 {
+	  font-size: 50px;
+	  font-weight: bold;
+	  margin: 30px 8px;
+	  padding: 30px;
+	  display: flex;
+  justify-content: center;
+    background-color: #eee;
+  }
+ p {
+	margin-top: -50px;
+	  padding: 30px;
+	  display: flex;
+  justify-content: center;
+    background-color: #eee; 
+ }
+  #img-caption {
+    margin-left: 150px;
+  }
+  #tribute-info {
+  margin-left: 150px;
+  }
+  
